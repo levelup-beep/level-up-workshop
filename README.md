@@ -2,7 +2,7 @@
 
 Workshop-Seite für **Level Up, Ladies!** — KI-Power für Frauen in Job, Business und Alltag.
 
-**Live:** https://levelup-beep.github.io/level-up-workshop/
+**Live:** https://levelupladies.de/level-up-workshop/
 
 Die Seite begleitet den Workshop und lässt sich danach selbstständig durcharbeiten. Sie führt
 durch drei Levels, alle Prompts sind direkt kopierbar.
@@ -34,8 +34,8 @@ die im Hinweis-Kasten auf Seite 2 erscheint.
 
 ## Verwandt
 
-- Workshop-Seite für den Bildungsbereich: https://levelup-beep.github.io/level_up_ladies/
-- Landingpage: https://github.com/levelup-beep/level-up-ladies
+- Workshop-Seite für den Bildungsbereich: https://levelupladies.de/level_up_ladies/
+- Landingpage: https://github.com/levelup-beep/levelup-beep.github.io
 
 ## Kontakt
 
